@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-styled-components/static/js/main.4c0c4ab7.chunk.js",
-    "main.js.map": "/react-styled-components/static/js/main.4c0c4ab7.chunk.js.map",
+    "main.js": "/react-styled-components/static/js/main.e6676ba7.chunk.js",
+    "main.js.map": "/react-styled-components/static/js/main.e6676ba7.chunk.js.map",
     "runtime-main.js": "/react-styled-components/static/js/runtime-main.d2fefcd2.js",
     "runtime-main.js.map": "/react-styled-components/static/js/runtime-main.d2fefcd2.js.map",
-    "static/js/2.460d9a17.chunk.js": "/react-styled-components/static/js/2.460d9a17.chunk.js",
-    "static/js/2.460d9a17.chunk.js.map": "/react-styled-components/static/js/2.460d9a17.chunk.js.map",
+    "static/js/2.73c9e4de.chunk.js": "/react-styled-components/static/js/2.73c9e4de.chunk.js",
+    "static/js/2.73c9e4de.chunk.js.map": "/react-styled-components/static/js/2.73c9e4de.chunk.js.map",
     "index.html": "/react-styled-components/index.html",
-    "static/js/2.460d9a17.chunk.js.LICENSE.txt": "/react-styled-components/static/js/2.460d9a17.chunk.js.LICENSE.txt",
+    "static/js/2.73c9e4de.chunk.js.LICENSE.txt": "/react-styled-components/static/js/2.73c9e4de.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/react-styled-components/static/media/profile.8a701d40.jpg",
     "static/media/svg-1.svg": "/react-styled-components/static/media/svg-1.c9c88a21.svg",
     "static/media/svg-2.svg": "/react-styled-components/static/media/svg-2.882a2cd5.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d2fefcd2.js",
-    "static/js/2.460d9a17.chunk.js",
-    "static/js/main.4c0c4ab7.chunk.js"
+    "static/js/2.73c9e4de.chunk.js",
+    "static/js/main.e6676ba7.chunk.js"
   ]
 }
